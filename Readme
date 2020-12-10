@@ -1,2 +1,30 @@
-Ce dossier met à disposition les données utilisées dans l'article Comparaison de représentations de textes en vue d’une analyse exploratoire publié à la conférence EGC 2021
+Ce dossier met à disposition les données utilisées dans l'article Comparaison de représentations de textes en vue d’une analyse exploratoire
+publié à la conférence EGC 2021
+
+Résumé :
+
+Dans cet article, nous étudions de façon qualitative l’intérêt de plusieurs représentations
+vectorielles de texte pour l’analyse exploratoire d’un corpus. Une représentation élémentaire
+par sac de mots (unigrammes) est comparée à celle obtenue à partir de la distance Sinkhorn
+entre les textes calculée sur une représentation vectorielle des mots. Puis, une classification des
+textes ainsi représentés est construite à l’aide de l’algorithmehigh-dimensional data clustering(HDDC).
+Les différences, entre les représentations, sont illustrées grâce à un nouveau corpus
+de textes constitués à partir des rapports 8-K de l’entreprise Wells Fargo(pour les années 2015et 2016).
+Nous analysons la cohérence des classes ainsi obtenues et cherchons à les caractériseren terme de vocabulaire
+et de sujets spécifiques.
+
+Summary : 
+
+In this article, we study the impact of different approaches of vectorial
+representations of texts on the exploratory analysis of a corpus. We compare
+an elementary bag of words representation with one based topic
+models, as well as with a more complex one, constructed from the Sinkhorn
+distance between the texts calculated on a vector embedding of the
+words. Each text representation leads to a different clustering of the corpus
+obtained via the
+high-dimensional data clustering algorithm. We analyse the impact of
+the representations using a new corpus of texts based on the 8-K 
+reports of the Standard & Poor's 500 companies (for the years 2015 and
+2016). We analyse the coherence of the classes thus obtained and seek to
+characterise them in terms of specific vocabulary and topics. 
 
