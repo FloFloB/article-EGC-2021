@@ -9,7 +9,7 @@ par sac de mots (unigrammes) est comparée à celle obtenue à partir de la dist
 entre les textes calculée sur une représentation vectorielle des mots. Puis, une classification des
 textes ainsi représentés est construite à l’aide de l’algorithmehigh-dimensional data clustering(HDDC).
 Les différences, entre les représentations, sont illustrées grâce à un nouveau corpus
-de textes constitués à partir des rapports 8-K de l’entreprise Wells Fargo(pour les années 2015et 2016).
+de textes constitués à partir des rapports 8-K de l’entreprise Wells Fargo(pour les années 2015 et 2016).
 Nous analysons la cohérence des classes ainsi obtenues et cherchons à les caractériseren terme de vocabulaire
 et de sujets spécifiques.
 
